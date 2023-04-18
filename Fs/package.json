@@ -1,0 +1,15 @@
+{
+  "name": "file_system",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "c0mrade",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint-config-auto": "^0.7.3"
+  }
+}
